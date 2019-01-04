@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://Jonas-Song.github.io/"/>
-  <updated>2019-01-04T07:11:21.720Z</updated>
+  <updated>2019-01-04T07:12:34.095Z</updated>
   <id>https://Jonas-Song.github.io/</id>
   
   <author>
@@ -15,20 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>install-nodejs</title>
-    <link href="https://Jonas-Song.github.io/install-nodejs.html"/>
-    <id>https://Jonas-Song.github.io/install-nodejs.html</id>
-    <published>2019-01-04T07:07:22.000Z</published>
-    <updated>2019-01-04T07:11:21.720Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hexo &amp; GitHub Pages 搭建免费个人博客</title>

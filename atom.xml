@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://Jonas-Song.github.io/"/>
-  <updated>2019-01-06T02:46:38.207Z</updated>
+  <updated>2019-01-06T02:55:03.122Z</updated>
   <id>https://Jonas-Song.github.io/</id>
   
   <author>
@@ -21,17 +21,15 @@
     <link href="https://Jonas-Song.github.io/notes/hexo-commands.html"/>
     <id>https://Jonas-Song.github.io/notes/hexo-commands.html</id>
     <published>2019-01-04T07:52:49.000Z</published>
-    <updated>2019-01-06T02:46:38.207Z</updated>
+    <updated>2019-01-06T02:55:03.122Z</updated>
     
-    <content type="html"><![CDATA[<p>Hexo 快速、简洁且高效的博客框架</p><p>常用命令：<br><figure class="highlight coffeescript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line">安装</span><br><span class="line">$ <span class="built_in">npm</span> install hexo-cli -g</span><br><span class="line"></span><br><span class="line">更新</span><br><span class="line">$ <span class="built_in">npm</span> update hexo-cli -g</span><br><span class="line"></span><br><span class="line">查看版本</span><br><span class="line">$ hexo version     简写: hexo -v</span><br><span class="line"></span><br><span class="line">初始化</span><br><span class="line">$ hexo init</span><br><span class="line"></span><br><span class="line">成静态文件</span><br><span class="line">$ hexo generate    简写: hexo g</span><br><span class="line"></span><br><span class="line">启动本地服务器</span><br><span class="line">$ hexo server      简写: hexo s</span><br><span class="line"></span><br><span class="line">部署网站</span><br><span class="line">$ hexo deploy      简写: hexo d</span><br><span class="line"></span><br><span class="line">新建一篇文章</span><br><span class="line">$ hexo <span class="keyword">new</span> &lt;title&gt;</span><br><span class="line"></span><br><span class="line">清除缓存文件</span><br><span class="line">$hexo clean</span><br></pre></td></tr></table></figure></p><p>更多详细的命令查看 <a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="noopener">Hexo 文档</a> 。</p>]]></content>
+    <content type="html"><![CDATA[<p>Hexo 快速、简洁且高效的博客框架</p><p>Hexo 项目地址：<a href="https://hexo.io/" target="_blank" rel="noopener">https://hexo.io/</a></p><p>常用命令：<br><a id="more"></a><br><figure class="highlight coffeescript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line">安装</span><br><span class="line">$ <span class="built_in">npm</span> install hexo-cli -g</span><br><span class="line"></span><br><span class="line">更新</span><br><span class="line">$ <span class="built_in">npm</span> update hexo-cli -g</span><br><span class="line"></span><br><span class="line">查看版本</span><br><span class="line">$ hexo version     简写: hexo -v</span><br><span class="line"></span><br><span class="line">初始化</span><br><span class="line">$ hexo init</span><br><span class="line"></span><br><span class="line">成静态文件</span><br><span class="line">$ hexo generate    简写: hexo g</span><br><span class="line"></span><br><span class="line">启动本地服务器</span><br><span class="line">$ hexo server      简写: hexo s</span><br><span class="line"></span><br><span class="line">部署网站</span><br><span class="line">$ hexo deploy      简写: hexo d</span><br><span class="line"></span><br><span class="line">新建一篇文章</span><br><span class="line">$ hexo <span class="keyword">new</span> &lt;title&gt;</span><br><span class="line"></span><br><span class="line">清除缓存文件</span><br><span class="line">$hexo clean</span><br></pre></td></tr></table></figure></p><p>更多详细的命令查看 <a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="noopener">Hexo 文档</a> 。</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Hexo 快速、简洁且高效的博客框架&lt;/p&gt;
-&lt;p&gt;常用命令：&lt;br&gt;&lt;figure class=&quot;highlight coffeescript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;
-      
+      &lt;p&gt;Hexo 快速、简洁且高效的博客框架&lt;/p&gt;
+&lt;p&gt;Hexo 项目地址：&lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://hexo.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;常用命令：&lt;br&gt;
     
     </summary>
     
